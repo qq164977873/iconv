@@ -18,3 +18,5 @@ deps/
 mix.lock
 
 *.so
+rebar.lock
+*.crashdump
